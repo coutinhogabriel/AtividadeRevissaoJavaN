@@ -1,0 +1,4 @@
+1 - Ler a quantidade de horas trabalhadas/mes
+2 - Ler o valor da hora trabalhada
+3 - Calcular a quantidade de horas extras
+4 - Calcular o salario total
